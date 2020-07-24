@@ -1,11 +1,11 @@
 #
-# Created on Thu Jul 23 2020
+# Created on Fri Jul 24 2020
 #
 # This file is a part of the Python TerrabaseDB driver
 #
 # Copyright (c) 2020, Sayan Nandan <ohsayan at outlook dot com>
-# You may obtain a copy of the License at
 # Licensed under the Apache License, Version 2.0 (the "License");
+# You may obtain a copy of the License at
 #
 #     http://www.apache.org/licenses/LICENSE-2.0
 #
